@@ -143,6 +143,8 @@ https://github.com/hakluke/weaponised-XSS-payloads
 
 ### • Articles
 
+https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities
+
 https://github.com/p0dalirius/windows-coerced-authentication-methods
 
 https://pentestlaboratories.com/2021/06/01/threat-hunting-amsi-bypasses

@@ -9,7 +9,7 @@
 
 •••![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)•••
 
-###### [Go to blueteam🛡️](https://github.com/A0RX/Red-Blueteam-party#--blueteam)
+###### [Go to blueteam🛡️](#--blueteam)
 
 ## - [Redteam🗡](#Redteam🗡)
 

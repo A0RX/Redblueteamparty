@@ -18,13 +18,13 @@
 
 [Linkedlnt](https://github.com/vysecurity/LinkedInt)
 
-[Spoofcheck](https://github.com/BishopFox/spoofcheck)
+[Spoofcheck](https://github.com/BishopFox/spoofcheck)           
 
 [Pagodo](https://github.com/opsdisk/pagodo)
 
 [wintnessMe](https://github.com/byt3bl33d3r/WitnessMe)
 
-[Linkedin 2username](https://github.com/initstring/linkedin2username)
+[Linkedin2username](https://github.com/initstring/linkedin2username)
 
 [Recong-ng](https://github.com/lanmaster53/recon-ng)
 

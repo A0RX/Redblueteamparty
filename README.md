@@ -13,137 +13,137 @@
 
 ### • Tools
 
-https://github.com/vysecurity/LinkedInt
+[Linkedlnt](https://github.com/vysecurity/LinkedInt)
 
-https://github.com/BishopFox/spoofcheck
+[Spoofcheck](https://github.com/BishopFox/spoofcheck)
 
-https://github.com/opsdisk/pagodo
+[Pagodo](https://github.com/opsdisk/pagodo)
 
-https://github.com/byt3bl33d3r/WitnessMe
+[wintnessMe](https://github.com/byt3bl33d3r/WitnessMe)
 
-https://github.com/initstring/linkedin2username
+[Linkedin 2username](https://github.com/initstring/linkedin2username)
 
-https://github.com/lanmaster53/recon-ng
+[Recong-ng](https://github.com/lanmaster53/recon-ng)
 
-https://github.com/initstring/cloud_enum
+[Cloud_enum](https://github.com/initstring/cloud_enum)
 
-https://github.com/sham00n/buster
+[Buster](https://github.com/sham00n/buster)
 
-https://github.com/sa7mon/S3Scanner
+[S3Scanner](https://github.com/sa7mon/S3Scanner)
 
-https://github.com/zricethezav/gitleaks
+[Gitleaks](https://github.com/zricethezav/gitleaks)
 
-https://github.com/RustScan/RustScan
+[Rustscan](https://github.com/RustScan/RustScan)
 
-https://github.com/OWASP/Amass
+[Amass](https://github.com/OWASP/Amass)
 
-https://github.com/mandiant/Azure_Workshop
+[AzureWorkahop](https://github.com/mandiant/Azure_Workshop)
 
-https://github.com/frkngksl/NiCOFF
+[Nicoff](https://github.com/frkngksl/NiCOFF)
 
-https://github.com/memN0ps/eagle-rs
+[eagle-rs](https://github.com/memN0ps/eagle-rs)
 
-https://github.com/edoardottt/awesome-hacker-search-engines
+[Search engines](https://github.com/edoardottt/awesome-hacker-search-engines)
 
-https://gitlab.com/ORCA000/gp
+[Gpu poisoning](https://gitlab.com/ORCA000/gp)
 
-https://github.com/rizinorg/cutter
+[Cutter](https://github.com/rizinorg/cutter)
 
-https://github.com/Azure/Stormspotter
+[Stormspotter](https://github.com/Azure/Stormspotter)
 
-https://github.com/LasCC/Hack-Tools
+[Hack tools](https://github.com/LasCC/Hack-Tools)
 
-https://github.com/0xmoot/s3sec
+[s3sec](https://github.com/0xmoot/s3sec)
 
-https://github.com/Idov31/FunctionStomping
+[Function stomping](https://github.com/Idov31/FunctionStomping)
 
-https://github.com/rootsecdev/Azure-Red-Team
+[AZURE red team](https://github.com/rootsecdev/Azure-Red-Team)
 
-https://github.com/tbhaxor/WinAPI-RedBlue
+[WinAPI](https://github.com/tbhaxor/WinAPI-RedBlue)
 
-https://github.com/Trusted-AI/adversarial-robustness-toolbox
+[Adversarial toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
 
-https://github.com/trickster0/OffensiveRust
+[Offensive rust](https://github.com/trickster0/OffensiveRust)
 
-https://github.com/V1V1/OffensiveAutoIt
+[Offensive Autopt](https://github.com/V1V1/OffensiveAutoIt)
 
-https://github.com/FourCoreLabs/EDRHunt
+[Edrhunt](https://github.com/FourCoreLabs/EDRHunt)
 
-https://github.com/mgeeky/Penetration-Testing-Tools/tree/master/red-teaming
+[Redteaming hacking tools](https://github.com/mgeeky/Penetration-Testing-Tools/tree/master/red-teaming)
 
-https://github.com/Marshall-Hallenbeck/red_team_attack_lab
+[Redteam attack lab](https://github.com/Marshall-Hallenbeck/red_team_attack_lab)
 
-https://github.com/knight0x07/ImpulsiveDLLHijack
+[ImpulsiveDllhijack](https://github.com/knight0x07/ImpulsiveDLLHijack)
 
-https://github.com/quantumcore/remote_hacker_probe
+[RunPe](https://github.com/nettitude/RunPE)
 
-https://github.com/X-C3LL/xlsxPoison
+[Proxycannon-ng](https://github.com/proxycannon/proxycannon-ng)
 
-https://github.com/nettitude/RunPE
+[JadedWraith](https://github.com/phath0m/JadedWraith)
 
-https://github.com/proxycannon/proxycannon-ng
+[Ninja](https://github.com/ahmedkhlief/Ninja)
 
-https://github.com/phath0m/JadedWraith
+[ppmap](https://github.com/kleiton0x00/ppmap)
 
-https://github.com/ahmedkhlief/Ninja
+[Redteam wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wik)
 
-https://github.com/kleiton0x00/ppmap#requirements
+[Carbuncle](https://github.com/checkymander/Carbuncle)
 
-https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki#phishing-setup
+[Sharp Collection](https://github.com/Flangvik/SharpCollection)
 
-https://github.com/its-a-feature/Mythic
+[Gdr thied](https://github.com/antman1p/GDir-Thief)
 
-https://github.com/checkymander/Carbuncle
+[Coercer](https://github.com/p0dalirius/Coercer)
 
-https://github.com/Flangvik/SharpCollection
+[Nali](https://github.com/zu1k/nali)
 
-https://github.com/antman1p/GDir-Thief
+[Payloadbox](https://github.com/payloadbox)
 
-https://github.com/p0dalirius/Coercer
+[U code disasm](https://github.com/chip-red-pill/uCodeDisasm)
 
-https://github.com/zu1k/nali
+[Pen tools](https://github.com/mgeeky/Penetration-Testing-Tools)
 
-https://github.com/payloadbox
+[Paragon](https://github.com/KCarretto/paragon)
 
-https://github.com/chip-red-pill/uCodeDisasm
+[Byeintegrity uac](https://github.com/AzAgarampur/byeintegrity-uac)
 
-https://github.com/mgeeky/Penetration-Testing-Tools
+[Rxploit](https://github.com/NANI1734/Rxploit)
 
-https://github.com/KCarretto/paragon
+[vmw backdoor rs](https://github.com/lucab/vmw_backdoor-rs)
 
-https://github.com/AzAgarampur/byeintegrity-uac#uacme
+[Security tips](https://github.com/hackerscrolls/SecurityTips)
 
-https://github.com/NANI1734/Rxploit
+[Remote method guesser](https://github.com/qtc-de/remote-method-guesser)
 
-https://github.com/lucab/vmw_backdoor-rs
+[Ghunt](https://github.com/mxrch/GHunt)
 
-https://github.com/ffffffff0x/AboutSecurity
+[Bitlocker spi](https://github.com/FSecureLABS/bitlocker-spi-toolkit)
 
-https://github.com/hackerscrolls/SecurityTips
+[Shellcodeloader](https://github.com/knownsec/shellcodeloader)
 
-https://github.com/qtc-de/remote-method-guesser
+[Mythic](https://github.com/its-a-feature/Mythic)
 
-https://github.com/mxrch/GHunt
+[Aquarmoury](https://github.com/slaeryan/AQUARMOURY)
 
-https://github.com/FSecureLABS/bitlocker-spi-toolkit
+[Powershell redteam](https://github.com/tobor88/PowerShell-Red-Team)
 
-https://github.com/knownsec/shellcodeloader
+[Evil ssdp](https://github.com/initstring/evil-ssdp)
 
-https://github.com/its-a-feature/Mythic
+[ProxyPunch](https://github.com/RythmStick/ProxyPunch)
 
-https://github.com/slaeryan/AQUARMOURY
+[XSS payloads](https://github.com/hakluke/weaponised-XSS-payloads)
 
-https://github.com/tobor88/PowerShell-Red-Team
+[Jfscfscan](https://github.com/nullt3r/jfscan)
 
-https://github.com/initstring/evil-ssdp
+[Evilpdf](https://github.com/superzerosec/evilpdf)
 
-https://github.com/RythmStick/ProxyPunch
 
-https://github.com/hakluke/weaponised-XSS-payloads
-
-https://github.com/nullt3r/jfscan
 
 ### • Articles
+
+https://www.golinuxcloud.com/embed-payload-in-pdf/
+
+https://mgeeky.tech/backdooring-office-structures-part-1-oldschool/
 
 https://research.nccgroup.com/2022/08/11/detecting-dns-implants-old-kitten-new-tricks-a-saitama-case-study/
 

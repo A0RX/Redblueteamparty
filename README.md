@@ -1,17 +1,12 @@
 
 # red blue team party 🎉🏴‍☠️ 
 
-
-<a href="https://twitter.com/a0rxsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a0rxsec" height="20" width="20" /></a>
-
-
-
-•••![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)•••
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)  <a href="https://twitter.com/a0rxsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a0rxsec" height="20" width="20" /></a>  
 
 
 
 # - [Redteam🗡](#Redteam🗡)
-###### [Go to blueteam🛡️](#--blueteam)
+[Go to blueteam🛡️](#--blueteam)
 
 ### • Tools
 

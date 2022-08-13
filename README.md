@@ -1,6 +1,5 @@
 
-# Blue red team party 🎉🏴‍☠️ 
-## - a repository about usefull blue redteam tools, articles, tactics , etc
+# red blue team party 🎉🏴‍☠️ 
 
 
 <a href="https://twitter.com/a0rxsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a0rxsec" height="20" width="20" /></a>

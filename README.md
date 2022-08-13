@@ -141,7 +141,11 @@ https://github.com/RythmStick/ProxyPunch
 
 https://github.com/hakluke/weaponised-XSS-payloads
 
+https://github.com/nullt3r/jfscan
+
 ### • Articles
+
+https://research.nccgroup.com/2022/08/11/detecting-dns-implants-old-kitten-new-tricks-a-saitama-case-study/
 
 https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities
 

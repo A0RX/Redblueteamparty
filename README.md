@@ -134,9 +134,16 @@
 
 [Evilpdf](https://github.com/superzerosec/evilpdf)
 
+[MagicRecon](https://github.com/robotshell/magicRecon)
+
+[Subscan](https://github.com/Negative-py/SubScan)
+
+[MemoryRanger](https://github.com/IgorKorkin/MemoryRanger)
 
 
 ### • Articles
+
+http://fuzzing.in/codelabs/finding_security_vulnerabilities/index.html?index=..%2F..index#0
 
 https://www.golinuxcloud.com/embed-payload-in-pdf/
 

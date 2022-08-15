@@ -140,8 +140,13 @@
 
 [MemoryRanger](https://github.com/IgorKorkin/MemoryRanger)
 
+[Aceldr](https://github.com/kyleavery/AceLdr)
+
+[Hijacklibs](https://github.com/wietze/hijacklibs)
 
 ### • Articles
+
+https://sector7.computest.nl/post/2022-08-process-injection-breaking-all-macos-security-layers-with-a-single-vulnerability
 
 http://fuzzing.in/codelabs/finding_security_vulnerabilities/index.html?index=..%2F..index#0
 

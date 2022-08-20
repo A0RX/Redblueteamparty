@@ -144,6 +144,8 @@
 
 [Hijacklibs](https://github.com/wietze/hijacklibs)
 
+[Powershell](https://github.com/tobor88/PowerShell-Red-Team)
+
 ### • Articles
 
 https://sector7.computest.nl/post/2022-08-process-injection-breaking-all-macos-security-layers-with-a-single-vulnerability

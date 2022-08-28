@@ -146,6 +146,8 @@
 
 [Powershell](https://github.com/tobor88/PowerShell-Red-Team)
 
+[Redcloud](https://github.com/khast3x/Redcloud)
+
 ### • Articles
 
 https://sector7.computest.nl/post/2022-08-process-injection-breaking-all-macos-security-layers-with-a-single-vulnerability

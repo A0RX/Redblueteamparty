@@ -150,6 +150,10 @@
 
 ### • Articles
 
+https://www.accidentalrebel.com/malware-sandbox-evasion-in-x64-assembly-by-checking-ram-size-part-1.html
+
+https://www.accidentalrebel.com/malware-sandbox-evasion-in-x64-assembly-by-checking-ram-size-part-2.html
+
 https://sector7.computest.nl/post/2022-08-process-injection-breaking-all-macos-security-layers-with-a-single-vulnerability
 
 http://fuzzing.in/codelabs/finding_security_vulnerabilities/index.html?index=..%2F..index#0

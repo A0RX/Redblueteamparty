@@ -148,6 +148,8 @@
 
 [Redcloud](https://github.com/khast3x/Redcloud)
 
+[Win32offensive](https://github.com/matthieu-hackwitharts/Win32_Offensive_Cheatsheet)
+
 ### • Articles
 
 https://www.accidentalrebel.com/malware-sandbox-evasion-in-x64-assembly-by-checking-ram-size-part-1.html

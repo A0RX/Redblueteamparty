@@ -152,6 +152,8 @@
 
 ### • Articles
 
+https://www.synacktiv.com/publications/traces-of-windows-remote-command-execution.html
+
 https://www.accidentalrebel.com/malware-sandbox-evasion-in-x64-assembly-by-checking-ram-size-part-1.html
 
 https://www.accidentalrebel.com/malware-sandbox-evasion-in-x64-assembly-by-checking-ram-size-part-2.html

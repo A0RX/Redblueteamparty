@@ -150,7 +150,13 @@
 
 [Win32offensive](https://github.com/matthieu-hackwitharts/Win32_Offensive_Cheatsheet)
 
+[iprotator](https://github.com/Ge0rg3/requests-ip-rotator)
+
 ### • Articles
+
+https://www.x86matthew.com/view_post?id=windows_seagate_lpe
+
+https://blog.sonarsource.com/onedev-remote-code-execution/
 
 https://www.synacktiv.com/publications/traces-of-windows-remote-command-execution.html
 

@@ -154,6 +154,8 @@
 
 ### • Articles
 
+https://www.edx.org/bio/daniel-gruss-4
+
 https://www.x86matthew.com/view_post?id=windows_seagate_lpe
 
 https://blog.sonarsource.com/onedev-remote-code-execution/

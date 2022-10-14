@@ -154,7 +154,11 @@
 
 [Redgaurd](https://github.com/wikiZ/RedGuard)
 
+[Rusthound](https://github.com/OPENCYBER-FR/RustHound)
+
 ### • Articles
+
+https://www.mdsec.co.uk/2022/10/analysing-lastpass-part-1https://tbhaxor.com/pivoting-over-ttls-pap-wifi-network
 
 https://www.edx.org/bio/daniel-gruss-4
 

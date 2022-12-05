@@ -262,6 +262,8 @@ https://github.com/chip-red-pill/MicrocodeDecryptor
 
 #### • Etc
 
+https://github.com/foospidy/payloads
+
 https://github.com/Twigonometry/buffer-overflow-scripts
 
 https://github.com/hashishrajan/cloud-security-vulnerabilities

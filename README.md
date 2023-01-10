@@ -160,6 +160,8 @@
 
 ### • Articles
 
+https://www.crowdstrike.com/blog/scattered-spider-attempts-to-avoid-detection-with-bring-your-own-driver-tactic/
+
 https://www.x86matthew.com/view_post?id=shared_mem_utils
 
 https://www.mdsec.co.uk/2022/10/analysing-lastpass-part-1https://tbhaxor.com/pivoting-over-ttls-pap-wifi-network

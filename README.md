@@ -159,6 +159,8 @@
 
 ### • Articles
 
+https://exploit.ph/external-trusts-are-evil.html
+
 https://www.crowdstrike.com/blog/scattered-spider-attempts-to-avoid-detection-with-bring-your-own-driver-tactic/
 
 https://www.x86matthew.com/view_post?id=shared_mem_utils

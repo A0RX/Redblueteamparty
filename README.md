@@ -157,7 +157,11 @@
 
 [Jsubfinder](https://github.com/ThreatUnkown/jsubfinder)
 
+[Rustyhog](https://github.com/newrelic/rusty-hog)
+
 ### • Articles
+
+https://github.com/chr0n1k/AH2021Workshop
 
 https://exploit.ph/external-trusts-are-evil.html
 

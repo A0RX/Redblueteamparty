@@ -161,6 +161,8 @@
 
 ### • Articles
 
+https://www.xanthus.io/building-an-obfuscator-to-evade-windows-defender/
+
 https://github.com/chr0n1k/AH2021Workshop
 
 https://exploit.ph/external-trusts-are-evil.html
@@ -268,6 +270,8 @@ https://www.x86matthew.com/view_post?id=add_exe_import
 https://github.com/chip-red-pill/MicrocodeDecryptor
 
 #### • Etc
+
+https://github.com/d30sa1/RootKits-List-Download
 
 https://github.com/foospidy/payloads
 
